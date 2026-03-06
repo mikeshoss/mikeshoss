@@ -11,7 +11,6 @@ Unlike most AI profiles that stop at demos, my background combines product leade
 ### External
 
 - [Parleh](https://parleh.ai/) — an AI meeting companion that turns notes into live action, workflows, and agent-triggered execution
-- Lattice — an AI notebook that surfaces contextual answers while you work
 - [Epilogue](https://epiloguelabs.com) — an AI venture studio building practical AI systems for real businesses
 - Cira — a distributed AI platform for practical execution, orchestration, and scalable AI-native workflows
 
