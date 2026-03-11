@@ -8,16 +8,24 @@ Unlike most AI profiles that stop at demos, my background combines product leade
 
 ## What I'm building
 
-### External
-
-- [Parleh](https://parleh.ai/) — an AI meeting companion that turns notes into live action, workflows, and agent-triggered execution
+### Venture Studio
 - [Epilogue](https://epiloguelabs.com) — an AI venture studio building practical AI systems for real businesses
-- Cira — a distributed AI platform for practical execution, orchestration, and scalable AI-native workflows
+- The studio is powered by [Ultron](https://github.com/ultron-epilogue/), a local-first AI Chief of Staff coordinating multi-agent work across research, planning, execution, and operations.
 
-### Internal
+#### Venture Studio - Products
+- [Parleh](https://parleh.ai/) — an AI meeting companion that turns notes into live action, workflows, and agent-triggered execution
+- [Cira](https://usecria.ai) — a distributed AI platform for practical execution, orchestration, and scalable AI-native workflows
 
-- Ultron — a local-first AI Chief of Staff coordinating multi-agent work across research, planning, execution, and operations
+### Personal
+
+#### Infrastructure
 - Home Lab — the infrastructure layer behind my local-first AI systems, prototyping environments, self-hosted services, and deployment experiments
+
+#### Services
+- Observability platforms for infrastructure and product monitoring  
+- Automated developer environment provisioning  
+- AI agent tooling and system integrations  
+- Experimental decision and recommendation systems
 
 ## What I work on
 
