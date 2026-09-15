@@ -55,6 +55,13 @@ A community hub for technologists, innovators and creators in Milton, Ontario.
 - **$150M+** in fundraising supported through product, positioning and execution leadership
 - **9** patents in AI and video commerce (2 granted)
 
+## Building in the open
+
+- **[Reaper MCP](https://github.com/mikeshoss/reaper-mcp)** — Kali Linux security tools, summoned by AI. An MCP server wrapping 24 Kali security testing tools so agents can invoke them directly; Kali, the tools and the server ship as one Docker container.
+- **[Overlord MCP](https://github.com/mikeshoss/overlord-mcp)** — AI-controlled infrastructure: provision, command, destroy. An MCP server over the Proxmox VE API, 83 tools across VMs, containers, networking, firewall, storage, backup, HA and monitoring, with 13 provisioning recipes. Overlord stands up the environment; Reaper operates inside it.
+
+Also in flight, and not all public yet: **Hangar** (start Claude Code sessions on your own machines, from your phone), **Earshot** (an ADS-B display for one specific window — can you actually see it, and is that what you can hear), **YTZ-Tracker** (a macOS menu-bar board for movements at Billy Bishop), and **CAPCAST** (reassembling Weatheradio Canada's feeds on amateur spectrum after its 230 transmitters went dark on 31 March 2026). All of them are listed at [mikeshoss.com/projects](https://mikeshoss.com/projects).
+
 ## Community
 
 - **Expert-in-Residence** — AI & Product Management at DMZ
